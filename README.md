@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Khalaf
 
-**Backend Software Engineer | Cloud Systems Architect | Python Developer**  
+**Backend Software Engineer | Python Developer | Cloud Systems**  
 Designing scalable systems · Building clean APIs · Engineering seamless integrations
 
 ---
